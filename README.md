@@ -56,13 +56,13 @@ Marketing analysis on a fictitious beer company that wants to identify its targe
     - 3 = Widowed, divorced or separated
 
 - **Ethnicity**: Please indicate which of the following best describes your ethnicity. [single select]
-- 1 = White (non-Hispanic)
-- 2 = Black or African American
-- 3 = Hispanic or Latino
-- 4 = American Indian or Alaska Native
-- 5 = Asian
-- 6 = Native Hawaiian or Pacific Islander
-- 7 = Other (please specify):  _________
+    - 1 = White (non-Hispanic)
+    - 2 = Black or African American
+    - 3 = Hispanic or Latino
+    - 4 = American Indian or Alaska Native
+    - 5 = Asian
+    - 6 = Native Hawaiian or Pacific Islander
+    - 7 = Other (please specify):  _________
 
 
 
