@@ -1,5 +1,5 @@
 # Marketing-Analysis-Fictitious-Beer-Company-
-Marketing analysis on a fictitious beer company that wants to identify its target audience and develop a marketing strategy to cater to the identified audience.
+Marketing data analysis on a fictitious beer company's survey data. The company wants to identify its target audience and develop a marketing strategy to cater to the identified audience.
 
 ## Features
 - **Purchase Intentions**: How likely are you to purchase a beer with lower carbs within the next 4 weeks using a 1-5 scale where 1 means “not at all likely” and 5 means “very likely”?
